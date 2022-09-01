@@ -1,4 +1,4 @@
-# Calcination Project
+# Calcination Analysis
 
 Prototype for machine learning supported calcination analysis.
 
